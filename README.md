@@ -31,10 +31,3 @@ Clone or download the source, compile and run the MainWindow class in the gui fo
 
 # UML
 ![UML](/blob/master/uml.png)
-# Statement of originality 
-
-Except for the list below this assignment has been entirely done by myself.  
-__Yanlong LI u5890571__
- 
-Below is the complete list of ideas, help, and source code I obtained for others in completing this assignment:
-+ Eric McCreath - starting point CAD code,  used with permission. https://gitlab.cecs.anu.edu.au/u4033585/cgcadassignment2020  (delete this if you don't use Eric's code at all) 
